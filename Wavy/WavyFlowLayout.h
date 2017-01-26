@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface WavyFlowLayout : UICollectionViewFlowLayout
-
+@property NSMutableArray *fibArray;
 @end

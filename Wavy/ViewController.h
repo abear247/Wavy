@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "WavyFlowLayout.h"
 
 @interface ViewController : UIViewController <UICollectionViewDataSource>
 @property (weak, nonatomic) IBOutlet UICollectionView *collectionView;
