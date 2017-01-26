@@ -15,6 +15,7 @@
 		C8DFC07D1E3A5E080098BE2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8DFC07B1E3A5E080098BE2B /* LaunchScreen.storyboard */; };
 		C8DFC0881E3A5E080098BE2B /* WavyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C8DFC0871E3A5E080098BE2B /* WavyTests.m */; };
 		C8DFC0931E3A5E080098BE2B /* WavyUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C8DFC0921E3A5E080098BE2B /* WavyUITests.m */; };
+		C8DFC0A21E3A62C30098BE2B /* WavyFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = C8DFC0A11E3A62C30098BE2B /* WavyFlowLayout.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		C8DFC08E1E3A5E080098BE2B /* WavyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WavyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8DFC0921E3A5E080098BE2B /* WavyUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WavyUITests.m; sourceTree = "<group>"; };
 		C8DFC0941E3A5E080098BE2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C8DFC0A01E3A62C30098BE2B /* WavyFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WavyFlowLayout.h; sourceTree = "<group>"; };
+		C8DFC0A11E3A62C30098BE2B /* WavyFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WavyFlowLayout.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				C8DFC0711E3A5E080098BE2B /* AppDelegate.m */,
 				C8DFC0731E3A5E080098BE2B /* ViewController.h */,
 				C8DFC0741E3A5E080098BE2B /* ViewController.m */,
+				C8DFC0A01E3A62C30098BE2B /* WavyFlowLayout.h */,
+				C8DFC0A11E3A62C30098BE2B /* WavyFlowLayout.m */,
 				C8DFC0761E3A5E080098BE2B /* Main.storyboard */,
 				C8DFC0791E3A5E080098BE2B /* Assets.xcassets */,
 				C8DFC07B1E3A5E080098BE2B /* LaunchScreen.storyboard */,
@@ -273,6 +278,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C8DFC0A21E3A62C30098BE2B /* WavyFlowLayout.m in Sources */,
 				C8DFC0751E3A5E080098BE2B /* ViewController.m in Sources */,
 				C8DFC0721E3A5E080098BE2B /* AppDelegate.m in Sources */,
 				C8DFC06F1E3A5E080098BE2B /* main.m in Sources */,

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9BDCDC343120C7F20831AB860B7CD4263BB0C933",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9BDCDC343120C7F20831AB860B7CD4263BB0C933" : 9223372036854775807,
+    "3B254D99F8C971C11F04DE1004DE22FB9C2EB74D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "620219A3-B359-4C37-9111-A960193B2259",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9BDCDC343120C7F20831AB860B7CD4263BB0C933" : "Wavy\/",
+    "3B254D99F8C971C11F04DE1004DE22FB9C2EB74D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Wavy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Wavy.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/abear247\/Patient-Doctor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3B254D99F8C971C11F04DE1004DE22FB9C2EB74D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/abear247\/Wavy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9BDCDC343120C7F20831AB860B7CD4263BB0C933"
+    }
+  ]
+}
